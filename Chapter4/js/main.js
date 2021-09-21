@@ -5,8 +5,8 @@ var map;
 function createMap(){
     //create the map
     map = L.map('mapid', {
-        center: [20, 0],
-        zoom: 2
+        center: [39.391622991908378, -99.616916220839059],
+        zoom: 3
     });
 
     //add OSM base tilelayer
